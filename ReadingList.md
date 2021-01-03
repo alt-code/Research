@@ -36,13 +36,13 @@ Although this seems like a LOT of papers to read through, you should be able to 
 * Umati: http://www.cs.berkeley.edu/~bjoern/papers/heimerl-umati-chi2012.pdf
 * ShowMeHow: http://www.cs.berkeley.edu/~bjoern/papers/ramesh-showmehow-uist11.pdf
 
-##### Andrew Ko’s group at University of Washington:
+##### Amy Ko’s group at University of Washington:
 * LemonAid: http://dl.acm.org/authorize.cfm?key=6762889
 * Gestalt: http://dl.acm.org/authorize.cfm?key=391402
 
 ### SE Sample papers
 
-Compiled by Andy Ko:
+Compiled by Amy Ko:
 *Below is a list of papers that have been influential in my thinking and research at the intersection of HCI, Software Engineering, and Computing Education. I mostly use this list for new students who join my lab, so it also includes some of my own publications or former students' publications, because they represent the type of research that I enjoy doing.
 This list is by no means complete, and I'll obviously continue to add to it. If you know of something that's been influential to you in this research area, send it my way!*
 
